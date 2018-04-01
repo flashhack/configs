@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/mnt/dcgrv04/opt/home/qzhang/Workspace/EUClose/dcInstallMultiday'
+let g:netrw_dirhist_2='/mnt/dcgrv04/opt/home/qzhang/Workspace/EUClose/dcInstallMultiday/config'
+let g:netrw_dirhist_3='/mnt/dcgrv04/opt/home/qzhang/Workspace/EUClose/dcInstallMultiday'
+let g:netrw_dirhist_4='/mnt/dcgrv04/opt/home/qzhang/Workspace/EUClose/dcInstallMultiday/src'
+let g:netrw_dirhist_5='/opt/home/qtprod/strategies/euc1/scripts'
+let g:netrw_dirhist_6='/opt/data/QCEarning/eub/DailyData_EU/eubProdStates_Daily'
+let g:netrw_dirhist_7='/opt/home/qtprod/strategies/euc1/scripts'
+let g:netrw_dirhist_8='/opt/data/QCEarning/eub/scripts'
